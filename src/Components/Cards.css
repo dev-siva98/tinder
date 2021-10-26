@@ -2,18 +2,19 @@
     position: relative;
     background-color: #fff;
     width: 500px;
-    padding: 20px;
+    padding: 10px;
     max-width: 85vw;
     height: 60vh;
     box-shadow: 0px 18px 53px 0px rgba(0, 0, 0, 0.3);
     border-radius: 20px;
     background-size: cover;
     background-position: center;
+    margin-top: 0 !important;
 }
 .cards-container{
     display: flex;
     justify-content: center;
-    margin-top: 10vh;
+    margin-top: 8vh;
 }
 .swipe{
     position: absolute;

@@ -1,13 +1,13 @@
 .swipeButtons{
     position: fixed;
-    bottom: -5vh;
+    bottom: 4vh;
     display: flex;
     width: 100%;
     justify-content: space-evenly;
 }
 .swipeButtons .MuiIconButton-root{
     background-color: #fff;
-    box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.6);
 }
 .buttonRepeat{
     padding: 3vw !important;
